@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsRequest xmlns="http://orosales.com.pe/courses" 
+	xsi:schemaLocation="http://orosales.com.pe/courses course-details.xsd" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>1222</id>   <!--  number -->
+</GetCourseDetailsRequest>

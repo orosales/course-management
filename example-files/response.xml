@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns="http://orosales.com.pe/courses" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://orosales.com.pe/courses course-details.xsd">
+  <courseDetails>
+	<id>123</id>
+	<name>Spring Boot</name>
+	<description> You would learn the basic of spring</description>
+ </courseDetails>	
+</GetCourseDetailsResponse>
